@@ -74,8 +74,4 @@ This project implements **Mask R-CNN** for **instance segmentation**, specifical
 This project successfully implements **Mask R-CNN** for instance segmentation in a custom dataset.
 - The **IoU and mAP curves** suggest effective learning.  
 - **Accuracy plateaued around 85%**, indicating reliable object classification.  
-
-## Resources
-
-- **Annotations:** [Dataset Link](#)  
-- **Custom Dataset:** [Dataset Link](#)  
+ 
